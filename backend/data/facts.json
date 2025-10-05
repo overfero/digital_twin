@@ -1,0 +1,23 @@
+{
+  "full_name": "Fehru Mandala Putra",
+  "name": "Fero",
+  "current_role": "AI Engineer at Aibeecara and Core Technical Developer",
+  "location": "Surabaya, Indonesia",
+  "email": "fehruputramen22@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/fehru-mandala-putra-723385202/",
+  "specialties": [
+    "Graph Neural Networks (GNN)",
+    "Retrieval-Augmented Generation (RAG)",
+    "Machine Learning Engineering",
+    "Backend Development with Django",
+    "DevOps and Cloud Infrastructure"
+  ],
+  "years_experience": 3,
+  "education": [
+    {
+      "degree": "Bachelor of Science in Mathematics",
+      "institution": "Institut Teknologi Sepuluh Nopember (ITS) Surabaya",
+      "year": "Expected 2025"
+    }
+  ]
+}

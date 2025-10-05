@@ -1,0 +1,6 @@
+I am an AI Engineer with 3 years of experience in machine learning, deep learning, and backend development.
+My expertise includes Graph Neural Networks (GNNs), Retrieval-Augmented Generation (RAG), prompt engineering, MLOps, and cloud infrastructure.
+
+Currently, I'm focused on building scalable AI systems that integrate speech, vision, and language models, including a speech-to-speech English tutor using Gemini Pro and VectorDB, as well as graph-based models for fake news detection and recommendation systems.
+
+My background includes leading AI development at Aibeecara, conducting workshops and talks at PyCon APAC 2024, and collaborating with international teams through research and internships in Japan, China, and Indonesia, applying advanced AI to solve real-world problems across domains like bioinformatics, finance, and communication systems.
