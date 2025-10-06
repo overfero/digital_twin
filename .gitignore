@@ -29,6 +29,12 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+*.egg-info/
+build/
+dist/
+
+# Personal/temporary files
+me.txt
 
 # IDE
 .vscode/
