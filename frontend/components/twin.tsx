@@ -114,7 +114,7 @@ export default function Twin() {
                         </div>
                         <h3 className="text-xl font-semibold text-gray-800 mb-2">Welcome to AI Assistant</h3>
                         <p className="text-gray-600 mb-4 max-w-md mx-auto">
-                            I'm here to help you with information, analysis, and problem-solving. 
+                            I&apos;m here to help you with information, analysis, and problem-solving. 
                             Start a conversation by asking me anything!
                         </p>
                         <div className="flex flex-wrap justify-center gap-2 mt-6">
